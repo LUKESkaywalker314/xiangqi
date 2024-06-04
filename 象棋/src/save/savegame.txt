@@ -1,0 +1,52 @@
+-1 1 2 3 4 5 6 7 8 
+-1 -1 -1 -1 -1 -1 -1 -1 -1 
+0 9 -1 10 -1 -1 -1 -1 -1 
+11 -1 12 -1 13 -1 14 -1 15 
+-1 -1 -1 -1 -1 -1 -1 -1 -1 
+-1 -1 -1 -1 18 -1 19 -1 -1 
+16 -1 17 -1 -1 -1 -1 -1 20 
+-1 21 -1 -1 -1 -1 -1 22 -1 
+-1 -1 -1 -1 -1 -1 -1 -1 -1 
+23 24 25 26 27 28 29 30 31 
+RED_UNDO_NUM 30
+BLACK_UNDO_NUM 30
+IS_GAME_OVER false
+FIGHT_TYPE 0
+PLAY_FIRST 1
+CHESS_COLOR 255
+COMPUTER_CHESS 0
+PLAYER_CHESS 255
+IS_FIRST_CLICK true
+FIRST_CLICK_CHESS 18
+oldColumn:0 newRow:2 color:0 eatIndex:-1 index:0 dead:F type:rook number:1 newColumn:0 oldOldRow:-1 oldOldColumn:-1 name:黑车 oldRow:0 oldEatIndex:-1 direction:T 
+oldColumn:-1 newRow:0 color:0 eatIndex:-1 index:1 dead:F type:horse number:1 newColumn:1 oldOldRow:-1 oldOldColumn:-1 name:黑马 oldRow:-1 oldEatIndex:-1 direction:T 
+oldColumn:-1 newRow:0 color:0 eatIndex:-1 index:2 dead:F type:elephant number:1 newColumn:2 oldOldRow:-1 oldOldColumn:-1 name:黑象 oldRow:-1 oldEatIndex:-1 direction:T 
+oldColumn:-1 newRow:0 color:0 eatIndex:-1 index:3 dead:F type:guard number:1 newColumn:3 oldOldRow:-1 oldOldColumn:-1 name:黑士 oldRow:-1 oldEatIndex:-1 direction:T 
+oldColumn:-1 newRow:0 color:0 eatIndex:-1 index:4 dead:F type:king number: newColumn:4 oldOldRow:-1 oldOldColumn:-1 name:黑将 oldRow:-1 oldEatIndex:-1 direction:T 
+oldColumn:-1 newRow:0 color:0 eatIndex:-1 index:5 dead:F type:guard number:2 newColumn:5 oldOldRow:-1 oldOldColumn:-1 name:黑士 oldRow:-1 oldEatIndex:-1 direction:T 
+oldColumn:-1 newRow:0 color:0 eatIndex:-1 index:6 dead:F type:elephant number:2 newColumn:6 oldOldRow:-1 oldOldColumn:-1 name:黑象 oldRow:-1 oldEatIndex:-1 direction:T 
+oldColumn:-1 newRow:0 color:0 eatIndex:-1 index:7 dead:F type:horse number:2 newColumn:7 oldOldRow:-1 oldOldColumn:-1 name:黑马 oldRow:-1 oldEatIndex:-1 direction:T 
+oldColumn:-1 newRow:0 color:0 eatIndex:-1 index:8 dead:F type:rook number:2 newColumn:8 oldOldRow:-1 oldOldColumn:-1 name:黑车 oldRow:-1 oldEatIndex:-1 direction:T 
+oldColumn:-1 newRow:2 color:0 eatIndex:-1 index:9 dead:F type:cannon number:1 newColumn:1 oldOldRow:-1 oldOldColumn:-1 name:黑炮 oldRow:-1 oldEatIndex:-1 direction:T 
+oldColumn:7 newRow:2 color:0 eatIndex:-1 index:10 dead:F type:cannon number:2 newColumn:3 oldOldRow:-1 oldOldColumn:-1 name:黑炮 oldRow:2 oldEatIndex:-1 direction:T 
+oldColumn:-1 newRow:3 color:0 eatIndex:-1 index:11 dead:F type:soldier number:1 newColumn:0 oldOldRow:-1 oldOldColumn:-1 name:黑卒 oldRow:-1 oldEatIndex:-1 direction:T 
+oldColumn:-1 newRow:3 color:0 eatIndex:-1 index:12 dead:F type:soldier number:2 newColumn:2 oldOldRow:-1 oldOldColumn:-1 name:黑卒 oldRow:-1 oldEatIndex:-1 direction:T 
+oldColumn:-1 newRow:3 color:0 eatIndex:-1 index:13 dead:F type:soldier number:3 newColumn:4 oldOldRow:-1 oldOldColumn:-1 name:黑卒 oldRow:-1 oldEatIndex:-1 direction:T 
+oldColumn:-1 newRow:3 color:0 eatIndex:-1 index:14 dead:F type:soldier number:4 newColumn:6 oldOldRow:-1 oldOldColumn:-1 name:黑卒 oldRow:-1 oldEatIndex:-1 direction:T 
+oldColumn:-1 newRow:3 color:0 eatIndex:-1 index:15 dead:F type:soldier number:5 newColumn:8 oldOldRow:-1 oldOldColumn:-1 name:黑卒 oldRow:-1 oldEatIndex:-1 direction:T 
+oldColumn:-1 newRow:6 color:255 eatIndex:-1 index:16 dead:F type:soldier number:1 newColumn:0 oldOldRow:-1 oldOldColumn:-1 name:红兵 oldRow:-1 oldEatIndex:-1 direction:B 
+oldColumn:-1 newRow:6 color:255 eatIndex:-1 index:17 dead:F type:soldier number:2 newColumn:2 oldOldRow:-1 oldOldColumn:-1 name:红兵 oldRow:-1 oldEatIndex:-1 direction:B 
+oldColumn:4 newRow:5 color:255 eatIndex:-1 index:18 dead:F type:soldier number:3 newColumn:4 oldOldRow:-1 oldOldColumn:-1 name:红兵 oldRow:6 oldEatIndex:-1 direction:B 
+oldColumn:6 newRow:5 color:255 eatIndex:-1 index:19 dead:F type:soldier number:4 newColumn:6 oldOldRow:-1 oldOldColumn:-1 name:红兵 oldRow:6 oldEatIndex:-1 direction:B 
+oldColumn:-1 newRow:6 color:255 eatIndex:-1 index:20 dead:F type:soldier number:5 newColumn:8 oldOldRow:-1 oldOldColumn:-1 name:红兵 oldRow:-1 oldEatIndex:-1 direction:B 
+oldColumn:-1 newRow:7 color:255 eatIndex:-1 index:21 dead:F type:cannon number:1 newColumn:1 oldOldRow:-1 oldOldColumn:-1 name:红炮 oldRow:-1 oldEatIndex:-1 direction:B 
+oldColumn:-1 newRow:7 color:255 eatIndex:-1 index:22 dead:F type:cannon number:2 newColumn:7 oldOldRow:-1 oldOldColumn:-1 name:红炮 oldRow:-1 oldEatIndex:-1 direction:B 
+oldColumn:-1 newRow:9 color:255 eatIndex:-1 index:23 dead:F type:rook number:1 newColumn:0 oldOldRow:-1 oldOldColumn:-1 name:红车 oldRow:-1 oldEatIndex:-1 direction:B 
+oldColumn:-1 newRow:9 color:255 eatIndex:-1 index:24 dead:F type:horse number:1 newColumn:1 oldOldRow:-1 oldOldColumn:-1 name:红马 oldRow:-1 oldEatIndex:-1 direction:B 
+oldColumn:-1 newRow:9 color:255 eatIndex:-1 index:25 dead:F type:elephant number:1 newColumn:2 oldOldRow:-1 oldOldColumn:-1 name:红相 oldRow:-1 oldEatIndex:-1 direction:B 
+oldColumn:-1 newRow:9 color:255 eatIndex:-1 index:26 dead:F type:guard number:1 newColumn:3 oldOldRow:-1 oldOldColumn:-1 name:红仕 oldRow:-1 oldEatIndex:-1 direction:B 
+oldColumn:-1 newRow:9 color:255 eatIndex:-1 index:27 dead:F type:king number: newColumn:4 oldOldRow:-1 oldOldColumn:-1 name:红帅 oldRow:-1 oldEatIndex:-1 direction:B 
+oldColumn:-1 newRow:9 color:255 eatIndex:-1 index:28 dead:F type:guard number:2 newColumn:5 oldOldRow:-1 oldOldColumn:-1 name:红仕 oldRow:-1 oldEatIndex:-1 direction:B 
+oldColumn:-1 newRow:9 color:255 eatIndex:-1 index:29 dead:F type:elephant number:2 newColumn:6 oldOldRow:-1 oldOldColumn:-1 name:红相 oldRow:-1 oldEatIndex:-1 direction:B 
+oldColumn:-1 newRow:9 color:255 eatIndex:-1 index:30 dead:F type:horse number:2 newColumn:7 oldOldRow:-1 oldOldColumn:-1 name:红马 oldRow:-1 oldEatIndex:-1 direction:B 
+oldColumn:-1 newRow:9 color:255 eatIndex:-1 index:31 dead:F type:rook number:2 newColumn:8 oldOldRow:-1 oldOldColumn:-1 name:红车 oldRow:-1 oldEatIndex:-1 direction:B 
